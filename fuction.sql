@@ -61,6 +61,10 @@ select first_name , substr(first_name , 3  , 2) from actor;
 select first_name , substr(first_name , -3 ) from actor;
 select first_name , substr(first_name , -3 , -2) from actor;
 
+-- starting coloumn 
+-- position 
+-- total character
+
  
  
  
